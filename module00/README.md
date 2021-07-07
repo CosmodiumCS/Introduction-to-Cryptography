@@ -15,7 +15,7 @@
 - decryption is the process of turning ciphertext into plaintext
 - a cipher is the algorithm that encrypts plaintext or decrypts ciphertext using a key
 - a key is a secretive set of characters used for the ciphering process
-- block cipher, a cipher that encrypts/decrypts in blocks of bits
+- block cipher, a cipher that encrypts/decrypts in blocks [or rounds] of bits
 - encoding is a ciphering process that doesn't use a key
 
 ## 0.0.3 - Cryptographic Resources

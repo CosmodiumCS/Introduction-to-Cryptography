@@ -20,9 +20,14 @@ This course is an introductory level course that will introduce the topic of cry
 
 
 ## Module 0.2.0 - Symmetric Encryption
-### Defining Symmetric Encryption
-### Caesar Cipher
-### Advanced Encryption Standard [AES]
+### 0.2.1 - Defining Symmetric Encryption
+### 0.2.2 - Understanding Caesar Cipher
+### 0.2.3 - Encrypting The Caesar Cipher
+### 0.2.4 - Decrypting The Caesar Cipher
+### 0.2.5 - Bruteforcing The Caesar Cipher
+### 0.2.6 - Advanced Encryption Standard [AES or Rijndael]
+### 0.2.7 - Padding 
+### 0.2.8 - Homework
 
 ## Module 0.3.0 - Asymmetric Encryption
 ### Defining Asymmetric Encryption
