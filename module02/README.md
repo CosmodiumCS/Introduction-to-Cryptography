@@ -6,7 +6,7 @@
 - faster than asymmetric encryption
 	- more on 'asymmetric encryption' in module 3
 
-## 0.2.2 - Understanding Caesar Cipher
+## 0.2.2 - Understanding The Caesar Cipher
 - a symmetric encryption ciphering process, that works by moving [shifitng] letters down the alphabet by a certain number [index]
 - it was named after Julius Caesar, who used it as a way to send messages amoungst his army
 - Cryptography With Java | Caesar Cipher livestream - 'https://www.youtube.com/watch?v=VLOzGG7u4x4'
@@ -14,18 +14,18 @@
 Example [shift of 1]
 ```
 Plaintext Indexing:
-	-------------
+	/-----------\
 	| A | B | C |
-	|-----------|
+	|---+---+---|
 	| 1 | 2 | 3 |
-	-------------
+	\-----------/
 	
 Ciphertext Indexing:
-	-------------
+	/-----------\
 	| B | C | D |
-	|-----------|
+	|---+---+---|
 	| 1 | 2 | 3 |
-	-------------
+	\-----------/
 	
 	plaintext = "Hello"
 	ciphertext = "Ifmmp"
@@ -147,7 +147,9 @@ Shift Key: 6
 Gdkkn, Vnqkc!
 ...
 ```
-we can see that our script tried 26 different keys, and the fifth one showed us the plaintext contents
+- we can see that our script tried 26 different keys, and the fifth one showed us the plaintext contents
+---
+Fun fact, ROT13 [ROTation 13] is a cipher the exact same as the caesar cipher, but the key is always 13
 
 ## 0.2.6 - Advanced Encryption Standard [AES or Rijndael]
 - a symmetric block cipher that encrypts/decrypts blocks of 128 bits using keys sized at 128, 192, or 256
@@ -170,3 +172,5 @@ we can see that our script tried 26 different keys, and the fifth one showed us 
 	- Why? let's say our plaintext is 150 bits. after we encrypt our first block of 128 bits, there are only 22 bits left. We need another 106 bits of data in order to meet the quota of 128 bits. Once fulfilled, the cipher can finish properly. This data added to the end is the padding.
 
 ## 0.2.8 - Homework
+read this article on RSA, a type of symmetric encryption
+- 'https://hackernoon.com/how-does-rsa-work-f44918df914b'

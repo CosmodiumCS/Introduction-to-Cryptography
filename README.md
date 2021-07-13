@@ -6,9 +6,10 @@ This course is an introductory level course that will introduce the topic of cry
 
 ## Module 0.0.0 - What is Cryptography?
 ### 0.0.1 - Course Requirements
-### 0.0.2 - Defining Cryptography
-### 0.0.3 - Cryptographic Resources
-### 0.0.4 - Homework
+### 0.0.2 - Bits & Bytes
+### 0.0.3 - Defining Cryptography
+### 0.0.4 - Cryptographic Resources
+### 0.0.5 - Homework
 
 ## Module 0.1.0 - Password Hashing
 ### 0.1.1 - Understanding Hashes
@@ -18,10 +19,9 @@ This course is an introductory level course that will introduce the topic of cry
 ### 0.1.5 - Salts
 ### 0.1.6 - Homework
 
-
 ## Module 0.2.0 - Symmetric Encryption
 ### 0.2.1 - Defining Symmetric Encryption
-### 0.2.2 - Understanding Caesar Cipher
+### 0.2.2 - Understanding The Caesar Cipher
 ### 0.2.3 - Encrypting The Caesar Cipher
 ### 0.2.4 - Decrypting The Caesar Cipher
 ### 0.2.5 - Bruteforcing The Caesar Cipher
@@ -30,6 +30,12 @@ This course is an introductory level course that will introduce the topic of cry
 ### 0.2.8 - Homework
 
 ## Module 0.3.0 - Asymmetric Encryption
-### Defining Asymmetric Encryption
-### Vigenere Cipher
-### [RSA]
+### 0.3.1 - Defining Asymmetric Encryption
+### 0.3.2 - Authentication & Encryption
+### 0.3.3 - Diffie-Hellman Key Exchange
+
+## Module 0.4.0 - Other Ciphers
+### 0.4.1 - Understanding The Vigenere Cipher
+### 0.4.2 - Encrypting The Vigenere Cipher
+### 0.4.3 - Decrypting The Vigenere Cipher
+### 0.4.4 - Base64
