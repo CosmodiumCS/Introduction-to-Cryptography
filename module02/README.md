@@ -172,5 +172,5 @@ Fun fact, ROT13 [ROTation 13] is a cipher the exact same as the caesar cipher, b
 	- Why? let's say our plaintext is 150 bits. after we encrypt our first block of 128 bits, there are only 22 bits left. We need another 106 bits of data in order to meet the quota of 128 bits. Once fulfilled, the cipher can finish properly. This data added to the end is the padding.
 
 ## 0.2.8 - Homework
-read this article on RSA, a type of symmetric encryption
+read this article on RSA, a type of asymmetric encryption
 - 'https://hackernoon.com/how-does-rsa-work-f44918df914b'
