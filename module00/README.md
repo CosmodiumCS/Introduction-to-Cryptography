@@ -12,7 +12,7 @@
 ## 0.0.2 - Bits & Bytes
 - you are already familiar with the Decimal Numeric System
 	- a based 10 numeric system
-	- numbers composed of 10 digites, ranging from 0-9
+	- numbers composed of 10 digits, ranging from 0-9
 		-  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 	-  but there are other numeric systems
 ---
