@@ -2,7 +2,7 @@
 
 ## 0.4.1 - Understanding The Vigenere Cipher
 - invented by Giovan Battista Bellaso in 1553
-	- a more davance version was published by Blaise de Vigenere
+	- a more advance version was published by Blaise de Vigenere
 	- also called the 'Polyalphabetic cipher'
 - let's learn how it works
 ---
